@@ -43,4 +43,4 @@ data_dic = {
 
 data = pandas.DataFrame(data_dic)
 data.to_csv("new_data.csv")
-print(data)
+# print(data)
