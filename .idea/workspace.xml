@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="198c36b9-43f1-48ee-8589-dde33a9fe3b5" name="Changes" comment="pandas library">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="198c36b9-43f1-48ee-8589-dde33a9fe3b5" name="Changes" comment="reading data">
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -96,7 +95,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740961829669</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="reading data">
+      <option name="closed" value="true" />
+      <created>1741055202129</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1741055202129</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -106,6 +113,7 @@
     <MESSAGE value="First commit" />
     <MESSAGE value="working with csv" />
     <MESSAGE value="pandas library" />
-    <option name="LAST_COMMIT_MESSAGE" value="pandas library" />
+    <MESSAGE value="reading data" />
+    <option name="LAST_COMMIT_MESSAGE" value="reading data" />
   </component>
 </project>

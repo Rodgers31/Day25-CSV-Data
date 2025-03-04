@@ -33,6 +33,14 @@ data = pandas.read_csv("weather_data.csv")
 monday = data[data.day == 'Monday']
 # print(monday.condition)
 temp = monday.temp
-print((temp * 9/5) + 32)
+# print((temp * 9/5) + 32)
 
+# create a dataframe from scratch
+data_dic = {
+    "students": ["Jonny", "James", "Angela"],
+    "score":  [76, 56, 65]
+}
 
+data = pandas.DataFrame(data_dic)
+data.to_csv("new_data.csv")
+print(data)
